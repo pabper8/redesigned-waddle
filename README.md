@@ -1,2 +1,7 @@
 # redesigned-waddle
-Just a repository
+
+Hey humans
+
+I love eating tacos while I'm watching TV
+
+
